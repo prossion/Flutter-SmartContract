@@ -1,4 +1,4 @@
-# Flutter Smart Contract App
+# Flutter Smart Contract App v1.0
 
 ![bandicam_2021-04-22_18-39-00-824](https://user-images.githubusercontent.com/67923348/115745011-59f9df80-a393-11eb-821f-a4378ec4699e.gif)
 
