@@ -1,6 +1,15 @@
-# flutter_dapp
+# Flutter Smart Contract App v1.0
 
-A new Flutter project.
+![bandicam_2021-04-22_18-39-00-824](https://user-images.githubusercontent.com/67923348/115745011-59f9df80-a393-11eb-821f-a4378ec4699e.gif)
+
+Application for smart contracts on the Blockchain network
+
+### In this project I have used:
+- Dart/Flutter
+- http library
+- web3dart library
+
+This is the first version of this application, in the future there will be a new UI
 
 ## Getting Started
 
